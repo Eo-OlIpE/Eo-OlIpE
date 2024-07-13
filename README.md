@@ -1,5 +1,5 @@
 # Hello World ! Eu sou Luis Filipe, estudante de programação.
-#### Iniciei esta semana (01/04/2024), o curso de Analise e Desenvolvimento de Sistemas na Uninter. Estarei desenvolvendo cada vez mais projetos, e atualizando ainda mais meu perfil aqui no Gh, fiz um curso no senac ainda no ano passado e criei um perfil no Codeberg, Link para o meu perfil lá está logo a baixo.
+#### Iniciei na semana do dia 01/04/2024, o curso de Analise e Desenvolvimento de Sistemas na Uninter. Estarei desenvolvendo cada vez mais projetos, e atualizando ainda mais meu perfil aqui no Gh, fiz um curso no senac ainda no ano passado e criei um perfil no Codeberg, Link para o meu perfil lá está logo a baixo.
 ---
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFilipe1&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipe1&langs_count&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
